@@ -1,3 +1,1 @@
-Added Dummy Folder
-Added Dummy Folder
-Added Dummy Branch
+Message From Master Branch
