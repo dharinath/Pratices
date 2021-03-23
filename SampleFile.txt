@@ -1,1 +1,2 @@
 Message From Master Branch-1
+Resolved Merge Conflicts
